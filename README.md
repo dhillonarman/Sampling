@@ -13,6 +13,9 @@ Systematic Sampling: Selects data points at regular intervals.
 Cluster Sampling: Divides data into clusters and selects samples from one or more clusters.
 Bootstrap Sampling: Samples data with replacement to create a new dataset.
 
+Sample Sizes
+Different sampling techniques use different formulas to determine sample size, as discussed in the discussion.
+
 Machine Learning Models
 The project evaluates the following classifiers on the balanced dataset created by different sampling techniques:
 Logistic Regression
