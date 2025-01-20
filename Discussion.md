@@ -1,6 +1,12 @@
 Introduction
+This project evaluates different sampling techniques on machine learning model performance.
 
-This project evaluates different sampling techniques on machine learning model performance. The following sampling methods are included:
+Different formulas for sample sizes considered are:
+ n = (Z^2 * p * (1-p)) / E^2
+ n = (Z^2 * p * (1-p)) / (E/S)^2
+ n = (Z^2 * p * (1-p)) / (E/C)^2
+ 
+The following sampling methods are included:
 Simple Random Sampling
 Stratified Sampling
 Systematic Sampling
