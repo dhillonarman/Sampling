@@ -1,4 +1,4 @@
-# Predictive-Analysis-
+# Model-Performance-with-Data-Sampling-
 
 Introduction 
 This project evaluates the impact of various sampling techniques on the performance of machine learning models. The goal is to demonstrate how different data sampling methods affect classification accuracy using multiple models.
